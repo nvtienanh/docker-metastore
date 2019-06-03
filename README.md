@@ -1,5 +1,5 @@
-# Docker image: Postgresql
-[![Build Status](https://travis-ci.org/nvtienanh/docker-postgresql.svg?branch=master)](https://travis-ci.org/nvtienanh/docker-postgresql)
+# Docker image: Metastore
+[![Build Status](https://travis-ci.org/nvtienanh/docker-metastore.svg?branch=master)](https://travis-ci.org/nvtienanh/docker-postgresql)
 
 Postgresql configured to work as metastore for Hive.
 
